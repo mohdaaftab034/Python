@@ -1,0 +1,24 @@
+Loop ---> Multiple time repeat kar sakte hai
+1 - While Loop
+2 - For Loop
+
+-------------
+
+while Loop
+true
+
+while condition:
+    #code snippet
+
+
+
+for Loop
+[1, 2, 3, 4, 5]
+5 times
+
+list tuple dictionary string
+
+for variable in sequence
+
+for a in lst:
+    print(a);

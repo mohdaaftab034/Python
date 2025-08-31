@@ -1,0 +1,6 @@
+Arithmatic oprator - math calculations
+Comparison Oprator - Compare values
+Logical Oprator - Combine the values
+Assignment Oprator - Assign the values
+Identity Oprator - Onject memory location
+Membership Oprator - Value exist in sequences

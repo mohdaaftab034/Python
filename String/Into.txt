@@ -1,0 +1,30 @@
+string and charcter
+
+numbers
+a - z and A - z
+""
+''
+
+single quotes - 'Python'
+double Quotes - "Python"
+triple quotes - multi line string
+'''
+this is multi line 
+'''
+
+"""
+This is also 
+a multi line
+"""
+indexing - Starts form 0
+a = 'python'
+p - 0 index
+y - 1 index
+t - 2 index
+h - 3 index
+o - 4 index
+n - 5 index
+
+----------------
+4 - real life examples of string
+
